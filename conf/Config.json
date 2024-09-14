@@ -1,0 +1,16 @@
+{
+    "Host": {
+        "ip": "192.168.3.219",
+        "Username": "test",
+        "Password": "Aa123456"
+    },
+    "Board": {
+        "Type":"Relaease",
+        "SMU": "172.16.0.100",
+        "DRU": "192.168.3.177",
+        "Port": 22,
+        "Username": "root",
+        "Password": "mos@micmega",
+        "Equip_Password": "root@ate"
+    }
+}
